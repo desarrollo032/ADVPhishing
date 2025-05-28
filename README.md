@@ -46,10 +46,10 @@ Grupo Signal
 ### TÉCNICA
 Cuando la víctima ingrese sus credenciales, debe ir al sitio web original y usarlas para enviarle un OTP real. Una vez que la víctima ingrese el OTP, usted también lo recibirá y podrá iniciar sesión en la cuenta antes que él.
 
-### TUTORIAL [KALI]
+### TUTORIAL ([KALI])
 [(![des](https://user-images.githubusercontent.com/55870659/77065337-7b7de000-69b7-11ea-915d-4dad81d2e892.png)](https://www.youtube.com/watch?v=U1nYsNLlFsw)
 
-### CAPTURA DE PANTALLA ( KALI ))
+### CAPTURA DE PANTALLA ( KALI )  )
 ![1](https://user-images.githubusercontent.com/55870659/92330976-02e00e00-f041-11ea-9c32-bc33d2971b06.png)
 ![2](https://user-images.githubusercontent.com/55870659/92331173-a8e04800-f042-11ea-8fd9-5aee83441280.png)
 
